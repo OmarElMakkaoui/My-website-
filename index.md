@@ -11,6 +11,11 @@ Hello! My name is Omar El Makkaoui, and this is my minimalist website where I sh
 - Exploring the intersection of **data science** and **climate change**.
 - Applying optimization techniques to improve decision-making.
 
+## About Me
+I am deeply interested in using my skills to make a tangible impact, particularly in areas like environmental sustainability, social phenomena, logistics, and data-driven solutions.
+
+Feel free to explore my work and connect with me for collaborations or discussions.
+
 ## Featured Projects
 ### [Air Quality Forecasting](#)
 Leveraged machine learning to predict air quality levels in real time and evaluate the impact of public policies on environmental planning.
@@ -24,12 +29,9 @@ Developed a chatbot that integrates large language models to enhance student int
 ### [Modeling Epidermal Wound Healing Using Reaction-Diffusion Systems](#)
 Explored the dynamics of cell migration in wound healing through reaction-diffusion models, deriving governing equations and applying numerical methods to uncover the relationship between biological processes and their mathematical representations.
 
-## About Me
-I am deeply interested in using my skills to make a tangible impact, particularly in areas like environmental sustainability, social phenomena, logistics, and data-driven solutions.
 
-Feel free to explore my work and connect with me for collaborations or discussions.
 
 ## Get in Touch
-- [GitHub]([https://github.com/OmarElMakkaoui])
+- [GitHub](https://github.com/OmarElMakkaoui)
 - [LinkedIn](www.linkedin.com/in/omar-e-9512b534c298)
 - [Email Me](omar.elmakkaoui@student-cs.fr)
