@@ -2,7 +2,6 @@
 title: Welcome to My Research Projects
 ---
 
-# Welcome to My Research Projects
 
 Hello! My name is Omar El Makkaoui, and this is my minimalist website where I showcase my research projects and share ideas about topics I’m passionate about, such as **machine learning**, **operations research**,**social phenomena** and **sustainability**.
 
