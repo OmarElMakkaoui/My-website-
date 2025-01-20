@@ -16,7 +16,7 @@ I am deeply interested in using my skills to make a tangible impact, particularl
 Feel free to explore my work and connect with me for collaborations or discussions.
 
 ## Featured Projects
-### [Air Quality Forecasting](https://github.com/OmarElMakkaoui/Projects/blob/48e643f70beb7263d391a06d1ff7ac7e8b05ab88/Modelling%20epidermal%20wound%20healing.pdf)
+### [Air Quality Forecasting]
 Leveraged machine learning to predict air quality levels in real time and evaluate the impact of public policies on environmental planning.
 
 ### [Modeling Commercial Distribution Using Schelling’s Model](#)
