@@ -16,7 +16,7 @@ I am deeply interested in using my skills to make a tangible impact, particularl
 Feel free to explore my work and connect with me for collaborations or discussions.
 
 ## Featured Projects
-### [Air Quality Forecasting](#)
+### [Air Quality Forecasting](https://github.com/OmarElMakkaoui/Projects/blob/48e643f70beb7263d391a06d1ff7ac7e8b05ab88/Modelling%20epidermal%20wound%20healing.pdf)
 Leveraged machine learning to predict air quality levels in real time and evaluate the impact of public policies on environmental planning.
 
 ### [Modeling Commercial Distribution Using Schelling’s Model](#)
@@ -25,7 +25,8 @@ Utilized probabilistic models and computational simulations to study the dynamic
 ### [Chatbots with LangChain](#)
 Developed a chatbot that integrates large language models to enhance student interaction and information accessibility.
 
-### [Modeling Epidermal Wound Healing Using Reaction-Diffusion Systems](#)
+### [Modeling Epidermal Wound Healing Using Reaction-Diffusion Systems](https://github.com/OmarElMakkaoui/Projects/blob/48e643f70beb7263d391a06d1ff7ac7e8b05ab88/Modelling%20epidermal%20wound%20healing.pdf)
+
 Explored the dynamics of cell migration in wound healing through reaction-diffusion models, deriving governing equations and applying numerical methods to uncover the relationship between biological processes and their mathematical representations.
 
 
