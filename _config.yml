@@ -1,8 +1,5 @@
 theme: jekyll-theme-minimal
-title: My Research Projects
-description: Showcasing my research work
 
-# Navigation menu
 header_pages:
   - index.md
   - about.md
