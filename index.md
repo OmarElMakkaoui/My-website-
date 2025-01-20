@@ -19,7 +19,7 @@ Feel free to explore my work and connect with me for collaborations or discussio
 ### [Air Quality Forecasting]
 Leveraged machine learning to predict air quality levels in real time and evaluate the impact of public policies on environmental planning.
 
-### [Modeling Commercial Distribution Using Schelling’s Model](#)
+### [Modeling Commercial Distribution ](https://github.com/OmarElMakkaoui/Projects/blob/b31f3092faa1d89bfbd6c97b0e7f2f336d139f87/Modelling%20business%20distribution%20.pdf)
 Utilized probabilistic models and computational simulations to study the dynamics of business distribution and clustering in urban areas. Applied the Metropolis-Hastings algorithm to discretize the problem and optimize retail outlet locations.
 
 ### [Chatbots with LangChain](#)
